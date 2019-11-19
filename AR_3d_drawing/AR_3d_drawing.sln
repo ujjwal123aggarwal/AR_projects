@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_3d_drawing.CSharp", "AR_3d_drawing.CSharp.csproj", "{B2538373-7435-B252-FBF9-DFFCD7FD5747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_3d_drawing.CSharp.Editor", "AR_3d_drawing.CSharp.Editor.csproj", "{F9614FBE-B20F-C804-F54A-ABD42C7713BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2538373-7435-B252-FBF9-DFFCD7FD5747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2538373-7435-B252-FBF9-DFFCD7FD5747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2538373-7435-B252-FBF9-DFFCD7FD5747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2538373-7435-B252-FBF9-DFFCD7FD5747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9614FBE-B20F-C804-F54A-ABD42C7713BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9614FBE-B20F-C804-F54A-ABD42C7713BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9614FBE-B20F-C804-F54A-ABD42C7713BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9614FBE-B20F-C804-F54A-ABD42C7713BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
